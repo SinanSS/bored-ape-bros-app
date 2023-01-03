@@ -1,16 +1,16 @@
-# bored_ape_bros_app
+# Bored Ape Bros App
 
-A new Flutter project.
+A simple NFT collection application using [OpenSea API](https://rapidapi.com/Glavier/api/opensea13) over RapidAPI.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Demo
+![Demo](https://i.ibb.co/tp9G2CF/ezgif-5-ca5f3c4855.gif)
+## Show your support
 
-A few resources to get you started if this is your first Flutter project:
+Please ⭐️ this repository if this project helped you!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  
+## Lisans
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
